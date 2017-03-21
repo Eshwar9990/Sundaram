@@ -1,5 +1,6 @@
 CACHE MANIFEST
 index.html
 images/*.jpg
+js/scripts.js
 css/style.css
 css/lib/bootstrap.min.css
