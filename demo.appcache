@@ -1,5 +1,7 @@
 CACHE MANIFEST
 index.html
+views/contacts/contacts.html
+views/aboutUs/aboutUs.html
 css/style.css
 css/lib/bootstrap.min.css
 js/scripts.js
