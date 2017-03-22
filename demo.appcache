@@ -1,6 +1,10 @@
 CACHE MANIFEST
 index.html
-images/*.jpg
+images/logo.jpg
+images/furniture_bs_hs_3_12_oct_2016.jpg
+images/furniture_bs_hs_1_12_oct_2016.jpg
+images/slider-2.jpg
+images/slider-4.jpg
 js/scripts.js
 css/style.css
 css/lib/bootstrap.min.css
