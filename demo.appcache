@@ -1,15 +1,21 @@
 CACHE MANIFEST
+
+# Explicitly cached 'master entries'
+
 index.html
 views/aboutUs/aboutUs.html
 views/productRange/homeChairs.html
 views/productRange/tables.html
+
 css/style.css
 css/lib/bootstrap.min.css
+
 js/scripts.js
 js/lib/bootstrap.min.js
 js/lib/carousel.js
 js/lib/jquery.min.js
 js/populateDataScripts/populateHomeChairsData.js
+
 images/logo.jpg
 images/furniture_bs_hs_3_12_oct_2016.jpg
 images/furniture_bs_hs_1_12_oct_2016.jpg
