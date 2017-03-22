@@ -1,13 +1,18 @@
 CACHE MANIFEST
 index.html
-views/contacts/contacts.html
+
 views/aboutUs/aboutUs.html
+views/productRange/homeChairs.html
+views/productRange/tables.html
+
 css/style.css
 css/lib/bootstrap.min.css
+
 js/scripts.js
 js/lib/bootstrap.min.js
 js/lib/carousel.js
 js/lib/jquery.min.js
+
 images/logo.jpg
 images/furniture_bs_hs_3_12_oct_2016.jpg
 images/furniture_bs_hs_1_12_oct_2016.jpg
@@ -24,6 +29,15 @@ images/hp_furniture_bs12_14_oct_2016.jpg
 images/two_door.png
 images/hp_furniture_bs15_11_nov_20162.jpg
 images/study-tableshp_furniture_bs17_21_oct_2016.png
+
+images/officeFurniture/homeChairs/6020-chair-set-of-six-in-mango-wood-colour-by-nilkamal-6020-chair-set-of-six-in-mango-wood-colour-by-nggl4w.html
+images/officeFurniture/6020-chair-set-of-four-in-marble-beige-colour-by-nilkamal-6020-chair-set-of-four-in-marble-beige-col-ixbpal.jpg
+images/officeFurniture/chair-series-in-maroon---cream-colour-by-nilkamal-chair-series-in-maroon---cream-colour-by-nilkamal-mejh9b.jpg
+images/officeFurniture/crystal-polypropylene-chair-in-violet-colour-by-nilkamal-crystal-polypropylene-chair-in-violet-colou-vizzco.jpg
+images/officeFurniture/evita-dining-chair-in-black-colour-by-nilkamal-evita-dining-chair-in-black-colour-by-nilkamal-gxnhm5.jpg
+images/officeFurniture/-home-novella-07-chair-green--home-novella-07-chair-green-hvsmew,jpg
+images/officeFurniture/novella-chair-in-blue-colour-by-nilkamal-novella-chair-in-blue-colour-by-nilkamal-pflnav.jpg
+images/officeFurniture/novella-vistor-chair-without-arms-in-beige-colour-by--home-novella-vistor-chair-without-arms-in-beig-lb7adb.jpg
 
 
 
