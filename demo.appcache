@@ -16,7 +16,6 @@ js/lib/carousel.js
 js/lib/jquery.min.js
 js/populateDataScripts/populateHomeChairsData.js
 
-images/logo.jpg
 images/furniture_bs_hs_3_12_oct_2016.jpg
 images/furniture_bs_hs_2_12_oct_2016.jpg
 images/furniture_bs_hs_1_12_oct_2016.jpg
@@ -45,4 +44,11 @@ images/hp_furniture_bs12_14_oct_2016.jpg
 images/two_door.png
 images/hp_furniture_bs15_11_nov_20162.jpg
 
+# Use from network if available
+NETWORK:
+network.html
+
+# Fallback content
+FALLBACK:
+images/logo.jpg images/Facebook-logo-f.png
 
