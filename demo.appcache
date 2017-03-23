@@ -1,7 +1,7 @@
 CACHE MANIFEST
 # 2017-03-24:v2
 # Explicitly cached 'master entries'
-
+CACHE
 index.html
 views/aboutUs/aboutUs.html
 views/productRange/homeChairs.html
@@ -16,6 +16,7 @@ js/lib/carousel.js
 js/lib/jquery.min.js
 js/populateDataScripts/populateHomeChairsData.js
 
+images/logo.jpg
 images/furniture_bs_hs_3_12_oct_2016.jpg
 images/furniture_bs_hs_2_12_oct_2016.jpg
 images/furniture_bs_hs_1_12_oct_2016.jpg
@@ -50,5 +51,5 @@ network.html
 
 # Fallback content
 FALLBACK:
-images/logo.jpg images/Facebook-logo-f.png
+/ offline.html
 
